@@ -1,3 +1,9 @@
+/*
+ * MessageMediaMessages
+ *
+ */
+package example;
+
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.messagemedia.messages.MessageMediaMessagesClient;
